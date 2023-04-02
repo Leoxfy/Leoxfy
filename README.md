@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leoxfy
-- 👀 I’m interested in Deep Learning, CV, GAN and so on.
+- 👀 I’m interested in Image Generation, Diffusion Models, GAN, etc.
 - 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xuefy@nwafu.edu.cn
