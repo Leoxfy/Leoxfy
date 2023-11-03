@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Leoxfy.
-- 👀 I’m interested in Image Generation, Diffusion Models, GAN, etc.
-- 🌱 I’m currently Grade Three undergraduate student. 
-- 💞️ I’m looking for a Ph.D. position.
+- 👀 I’m interested in TCP, QUIC, etc.
 - 📫 How to reach me xuefy@nwafu.edu.cn
 
 <!---
